@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Latihan KADE</string>
+
+    <string-array name="data_league_badge">
+        <item>@drawable/bundesliga</item>
+        <item>@drawable/english_premier_league</item>
+
+        <item>@drawable/la_liga</item>
+        <item>@drawable/ligue_1</item>
+
+        <item>@drawable/major_league_soccer</item>
+        <item>@drawable/primeira_liga</item>
+
+        <item>@drawable/scottish_premiership</item>
+        <item>@drawable/serie_a</item>
+
+        <item>@drawable/soccer_ball</item>
+        <item>@drawable/ucl</item>
+
+    </string-array>
+
+    <string-array name="data_league_name">
+        <item>BundesLiga</item>
+        <item>English Premiere League</item>
+        <item>La Liga</item>
+        <item>Ligue 1</item>
+        <item>Major League Soccer</item>
+        <item>Portuguese Primeira League</item>
+        <item>Scottish Premiere Ship</item>
+        <item>Serie A</item>
+        <item>Soccer Ball</item>
+        <item>UEFA Championship League</item>
+    </string-array>
+</resources>
